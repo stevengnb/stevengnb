@@ -4,7 +4,7 @@ I am Steven.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Steven-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-53b70a251/)](https://www.linkedin.com/in/steven-53b70a251/)
 [![Instagram Badge](https://img.shields.io/badge/-stevengnb-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/stevengnb/)](https://instagram.com/stevengnb)
-[![Gmail Badge](https://img.shields.io/badge/-blogstevens@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blogstevens@gmail.com)](mailto:stevengnb2@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-stevengnb2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blogstevens@gmail.com)](mailto:stevengnb2@gmail.com)
 
 
 ## ⚡ Technologies
